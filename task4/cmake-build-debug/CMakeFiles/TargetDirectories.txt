@@ -1,0 +1,3 @@
+/home/first/Projects/cpp/siaod/siaod/task4/cmake-build-debug/CMakeFiles/task4.dir
+/home/first/Projects/cpp/siaod/siaod/task4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/first/Projects/cpp/siaod/siaod/task4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
